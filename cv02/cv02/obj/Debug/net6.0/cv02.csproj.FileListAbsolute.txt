@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\cv02.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\cv02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\cv02.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\cv02.AssemblyInfo.cs
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\cv02.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\cv02\cv02\bin\Debug\net6.0\cv02.exe
+C:\Users\Student\source\repos\cv02\cv02\bin\Debug\net6.0\cv02.deps.json
+C:\Users\Student\source\repos\cv02\cv02\bin\Debug\net6.0\cv02.runtimeconfig.json
+C:\Users\Student\source\repos\cv02\cv02\bin\Debug\net6.0\cv02.dll
+C:\Users\Student\source\repos\cv02\cv02\bin\Debug\net6.0\cv02.pdb
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\cv02.dll
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\refint\cv02.dll
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\cv02.pdb
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\cv02.genruntimeconfig.cache
+C:\Users\Student\source\repos\cv02\cv02\obj\Debug\net6.0\ref\cv02.dll
