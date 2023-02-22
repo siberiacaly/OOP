@@ -1,0 +1,15 @@
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\bin\Debug\net6.0\cv03.exe
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\bin\Debug\net6.0\cv03.deps.json
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\bin\Debug\net6.0\cv03.runtimeconfig.json
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\bin\Debug\net6.0\cv03.dll
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\bin\Debug\net6.0\cv03.pdb
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\cv03.csproj.AssemblyReference.cache
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\cv03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\cv03.AssemblyInfoInputs.cache
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\cv03.AssemblyInfo.cs
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\cv03.csproj.CoreCompileInputs.cache
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\cv03.dll
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\refint\cv03.dll
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\cv03.pdb
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\cv03.genruntimeconfig.cache
+C:\Users\calab\Desktop\2. semestr TLI 2. ročníku\OOP\CVIKA\cv03\cv03\cv03\obj\Debug\net6.0\ref\cv03.dll
