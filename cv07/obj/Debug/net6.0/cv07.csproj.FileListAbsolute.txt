@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\cv07\bin\Debug\net6.0\cv07.exe
+C:\Users\Student\source\repos\cv07\bin\Debug\net6.0\cv07.deps.json
+C:\Users\Student\source\repos\cv07\bin\Debug\net6.0\cv07.runtimeconfig.json
+C:\Users\Student\source\repos\cv07\bin\Debug\net6.0\cv07.dll
+C:\Users\Student\source\repos\cv07\bin\Debug\net6.0\cv07.pdb
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\cv07.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\cv07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\cv07.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\cv07.AssemblyInfo.cs
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\cv07.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\cv07.dll
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\refint\cv07.dll
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\cv07.pdb
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\cv07.genruntimeconfig.cache
+C:\Users\Student\source\repos\cv07\obj\Debug\net6.0\ref\cv07.dll
