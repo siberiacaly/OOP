@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\cv10\bin\Debug\net6.0\cv10.exe
+C:\Users\Student\Desktop\cv10\bin\Debug\net6.0\cv10.deps.json
+C:\Users\Student\Desktop\cv10\bin\Debug\net6.0\cv10.runtimeconfig.json
+C:\Users\Student\Desktop\cv10\bin\Debug\net6.0\cv10.dll
+C:\Users\Student\Desktop\cv10\bin\Debug\net6.0\cv10.pdb
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\cv10.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\cv10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\cv10.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\cv10.AssemblyInfo.cs
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\cv10.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\cv10.dll
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\refint\cv10.dll
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\cv10.pdb
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\cv10.genruntimeconfig.cache
+C:\Users\Student\Desktop\cv10\obj\Debug\net6.0\ref\cv10.dll
